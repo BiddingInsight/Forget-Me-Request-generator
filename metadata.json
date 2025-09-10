@@ -1,0 +1,5 @@
+{
+  "name": "Forget Me Request Generator",
+  "description": "An application to help users generate requests for data deletion from their contacts via WhatsApp and from websites via email, promoting digital privacy.",
+  "requestFramePermissions": []
+}
